@@ -1,0 +1,54 @@
+{
+  "artboards": [
+    {
+      "file": "Main.dc.html",
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 5150,
+      "title": "Home page",
+      "expand": "fill",
+      "is_interactive": true
+    },
+    {
+      "file": "About.dc.html",
+      "x": 1360,
+      "y": 0,
+      "w": 1280,
+      "h": 4300,
+      "title": "About me",
+      "expand": "fill",
+      "is_interactive": true
+    },
+    {
+      "file": "Rides.dc.html",
+      "x": 2720,
+      "y": 0,
+      "w": 1280,
+      "h": 4400,
+      "title": "Bikes and rides",
+      "expand": "fill",
+      "is_interactive": true
+    },
+    {
+      "file": "Gallery.dc.html",
+      "x": 4080,
+      "y": 0,
+      "w": 1280,
+      "h": 3100,
+      "title": "Photo gallery",
+      "expand": "fill",
+      "is_interactive": true
+    }
+  ],
+  "launch": {
+    "view": "focused",
+    "file": "Main.dc.html"
+  },
+  "pages": [
+    {
+      "id": "page-1",
+      "name": "Page 1"
+    }
+  ]
+}
